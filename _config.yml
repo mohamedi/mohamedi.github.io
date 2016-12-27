@@ -9,14 +9,14 @@ highlighter:         true
 permalink:        pretty
 
 # Setup
-title:            Joshua Lande
-tagline:          'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
-url:              http://www.joshualande.com
-shorturl:         joshualande.com
+title:            Mohamed Imran Noor Mohamed
+tagline:          'Software Engineering, Java, Cloud, Machine Learning'
+url:              https://mohamedi.github.io/
+shorturl:         mohamedi.github.io/
 
 author:
-  name:           'Joshua Lande'
-  url:            https://twitter.com/joshualande
+  name:           'Mohamed Imran'
+  url:            https://de.linkedin.com/in/mohamedimrannoormohamed
 
 paginate:         1
 
@@ -24,7 +24,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           github.com/joshualande/joshualande.github.io
+  repo:           github.com/mohamedi/mohamedi.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
