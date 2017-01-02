@@ -2,7 +2,7 @@
 layout: post
 title: 100 Days in 2017 
 comments: true
-redirect_from: "/2017/02/01/futureLearn/"
+redirect_from: "/2017/01/02/futureLearn/"
 permalink: futureLearn
 ---
 
