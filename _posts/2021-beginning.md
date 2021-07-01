@@ -2,6 +2,7 @@
 layout: post
 title: investments-beginning 
 comments: true
+redirect_from: "/2021/07/01/invest/"
 permalink: invest
 ---
 
