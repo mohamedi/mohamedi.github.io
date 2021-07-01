@@ -1,3 +1,10 @@
+---
+layout: post
+title: investments-beginning 
+comments: true
+permalink: invest
+---
+
 # Introduction
 
 Over the past two years I have been reading and investing a lot. So, the main reason for this change is just by reading Jack bogle's book “The little book on common sense investing”. This book gave up phenomenal overview about owning stocks and what will be the returns look like in next 10, 20, 30 years. 
