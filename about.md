@@ -8,4 +8,4 @@ title: About
 
 I want to use this website to help teach people everything about investing.
 
-If you like my website, you can follow me on twitter [@twitter](https://twitter.com/ImranNoorMoham1).
+If you like my website, you can follow me on [@twitter](https://twitter.com/ImranNoorMoham1).
